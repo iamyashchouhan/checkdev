@@ -1,3 +1,1 @@
-{
-"check": "000"
-}
+{ "url": "6JBwonoTf4n0uhwPoT6JiN6LTZrateOyyrKDA0xdAXU=:ZmVkY2JhOTg3NjU0MzIxMA==", "api": "8j+KIKBnU22W+1HQw2mOKVVE9CXN20VcHhIM0eRToMMfzXJmkY56ZHzo+1BEUZmkygmcVWEyrH7eknyoItJvlA==:ZmVkY2JhOTg3NjU0MzIxMA==" }
