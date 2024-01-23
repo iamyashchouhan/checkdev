@@ -1,4 +1,4 @@
 {
 "url": "39aU2VTMiY1avIpSjAeB2+qiqNl36VO4bCrjW8BWGjo/j14sTGo7D2tobMOJgQOpYLanY9vwjboe+QOFO1xGHZOyNZOIgNOE3TYey9l0bYw=:ZmVkY2JhOTg3NjU0MzIxMA==",
-"dev": "YMG-Developers"
+"dev": "YMG-Developersz"
 }
