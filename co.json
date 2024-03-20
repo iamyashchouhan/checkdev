@@ -1,11 +1,378 @@
- [
-    {"Country": "India", "Emoji": "🇮🇳"},
-    {"Country": "United States of America", "Emoji": "🇺🇸"},
-   {"Country": "China", "Emoji": "🇨🇳"},
-    {"Country": "India", "Emoji": "🇮🇳"},
-    {"Country": "Brazil", "Emoji": "🇧🇷"},
-    {"Country": "Russia", "Emoji": "🇷🇺"},
-    {"Country": "United Kingdom", "Emoji": "🇬🇧"},
-    {"Country": "United States of America", "Emoji": "🇺🇸"},
-    {"Country": "Canada", "Emoji": "🇨🇦"}
+[
+    {
+        "Country": "United States of America",
+        "Emoji": "\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "Country": "Mexico",
+        "Emoji": "\ud83c\uddf2\ud83c\uddfd"
+    },
+    {
+        "Country": "Korea (Republic of)",
+        "Emoji": "\ud83c\uddf0\ud83c\uddf7"
+    },
+    {
+        "Country": "Thailand",
+        "Emoji": "\ud83c\uddf9\ud83c\udded"
+    },
+    {
+        "Country": "Viet Nam",
+        "Emoji": "\ud83c\uddfb\ud83c\uddf3"
+    },
+    {
+        "Country": "Japan",
+        "Emoji": "\ud83c\uddef\ud83c\uddf5"
+    },
+    {
+        "Country": "France",
+        "Emoji": "\ud83c\uddeb\ud83c\uddf7"
+    },
+    {
+        "Country": "Brazil",
+        "Emoji": "\ud83c\udde7\ud83c\uddf7"
+    },
+    {
+        "Country": "Indonesia",
+        "Emoji": "\ud83c\uddee\ud83c\udde9"
+    },
+    {
+        "Country": "Israel",
+        "Emoji": "\ud83c\uddee\ud83c\uddf1"
+    },
+    {
+        "Country": "Italy",
+        "Emoji": "\ud83c\uddee\ud83c\uddf9"
+    },
+    {
+        "Country": "Netherlands",
+        "Emoji": "\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "Country": "Malaysia",
+        "Emoji": "\ud83c\uddf2\ud83c\uddfe"
+    },
+    {
+        "Country": "Norway",
+        "Emoji": "\ud83c\uddf3\ud83c\uddf4"
+    },
+    {
+        "Country": "Sweden",
+        "Emoji": "\ud83c\uddf8\ud83c\uddea"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Emoji": "\ud83c\uddf8\ud83c\udde6"
+    },
+    {
+        "Country": "Greece",
+        "Emoji": "\ud83c\uddec\ud83c\uddf7"
+    },
+    {
+        "Country": "Germany",
+        "Emoji": "\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "Country": "South Africa",
+        "Emoji": "\ud83c\uddff\ud83c\udde6"
+    },
+    {
+        "Country": "Ethiopia",
+        "Emoji": "\ud83c\uddea\ud83c\uddf9"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Emoji": "\ud83c\udde6\ud83c\uddea"
+    },
+    {
+        "Country": "Bahrain",
+        "Emoji": "\ud83c\udde7\ud83c\udded"
+    },
+    {
+        "Country": "Algeria",
+        "Emoji": "\ud83c\udde9\ud83c\uddff"
+    },
+    {
+        "Country": "Egypt",
+        "Emoji": "\ud83c\uddea\ud83c\uddec"
+    },
+    {
+        "Country": "Iraq",
+        "Emoji": "\ud83c\uddee\ud83c\uddf6"
+    },
+    {
+        "Country": "Jordan",
+        "Emoji": "\ud83c\uddef\ud83c\uddf4"
+    },
+    {
+        "Country": "Kuwait",
+        "Emoji": "\ud83c\uddf0\ud83c\uddfc"
+    },
+    {
+        "Country": "Lebanon",
+        "Emoji": "\ud83c\uddf1\ud83c\udde7"
+    },
+    {
+        "Country": "Libya",
+        "Emoji": "\ud83c\uddf1\ud83c\uddfe"
+    },
+    {
+        "Country": "Morocco",
+        "Emoji": "\ud83c\uddf2\ud83c\udde6"
+    },
+    {
+        "Country": "Oman",
+        "Emoji": "\ud83c\uddf4\ud83c\uddf2"
+    },
+    {
+        "Country": "Qatar",
+        "Emoji": "\ud83c\uddf6\ud83c\udde6"
+    },
+    {
+        "Country": "Syrian Arab Republic",
+        "Emoji": "\ud83c\uddf8\ud83c\uddfe"
+    },
+    {
+        "Country": "Tunisia",
+        "Emoji": "\ud83c\uddf9\ud83c\uddf3"
+    },
+    {
+        "Country": "Yemen",
+        "Emoji": "\ud83c\uddfe\ud83c\uddea"
+    },
+    {
+        "Country": "Azerbaijan",
+        "Emoji": "\ud83c\udde6\ud83c\uddff"
+    },
+    {
+        "Country": "Bulgaria",
+        "Emoji": "\ud83c\udde7\ud83c\uddec"
+    },
+    {
+        "Country": "Bangladesh",
+        "Emoji": "\ud83c\udde7\ud83c\udde9"
+    },
+    {
+        "Country": "India",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Emoji": "\ud83c\udde7\ud83c\udde6"
+    },
+    {
+        "Country": "Spain",
+        "Emoji": "\ud83c\uddea\ud83c\uddf8"
+    },
+    {
+        "Country": "Czech Republic",
+        "Emoji": "\ud83c\udde8\ud83c\uddff"
+    },
+    {
+        "Country": "United Kingdom of Great Britain and Northern Ireland",
+        "Emoji": "\ud83c\uddec\ud83c\udde7"
+    },
+    {
+        "Country": "Denmark",
+        "Emoji": "\ud83c\udde9\ud83c\uddf0"
+    },
+    {
+        "Country": "Austria",
+        "Emoji": "\ud83c\udde6\ud83c\uddf9"
+    },
+    {
+        "Country": "Switzerland",
+        "Emoji": "\ud83c\udde8\ud83c\udded"
+    },
+    {
+        "Country": "Australia",
+        "Emoji": "\ud83c\udde6\ud83c\uddfa"
+    },
+    {
+        "Country": "Canada",
+        "Emoji": "\ud83c\udde8\ud83c\udde6"
+    },
+    {
+        "Country": "Hong Kong",
+        "Emoji": ""
+    },
+    {
+        "Country": "Ireland",
+        "Emoji": "\ud83c\uddee\ud83c\uddea"
+    },
+    {
+        "Country": "Kenya",
+        "Emoji": "\ud83c\uddf0\ud83c\uddea"
+    },
+    {
+        "Country": "Nigeria",
+        "Emoji": "\ud83c\uddf3\ud83c\uddec"
+    },
+    {
+        "Country": "New Zealand",
+        "Emoji": "\ud83c\uddf3\ud83c\uddff"
+    },
+    {
+        "Country": "Philippines",
+        "Emoji": "\ud83c\uddf5\ud83c\udded"
+    },
+    {
+        "Country": "Singapore",
+        "Emoji": "\ud83c\uddf8\ud83c\uddec"
+    },
+    {
+        "Country": "Tanzania, United Republic of",
+        "Emoji": "\ud83c\uddf9\ud83c\uddff"
+    },
+    {
+        "Country": "Argentina",
+        "Emoji": "\ud83c\udde6\ud83c\uddf7"
+    },
+    {
+        "Country": "Bolivia (Plurinational State of)",
+        "Emoji": "\ud83c\udde7\ud83c\uddf4"
+    },
+    {
+        "Country": "Colombia",
+        "Emoji": "\ud83c\udde8\ud83c\uddf4"
+    },
+    {
+        "Country": "Costa Rica",
+        "Emoji": "\ud83c\udde8\ud83c\uddf7"
+    },
+    {
+        "Country": "Cuba",
+        "Emoji": "\ud83c\udde8\ud83c\uddfa"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Emoji": "\ud83c\udde9\ud83c\uddf4"
+    },
+    {
+        "Country": "Ecuador",
+        "Emoji": "\ud83c\uddea\ud83c\udde8"
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Emoji": "\ud83c\uddec\ud83c\uddf6"
+    },
+    {
+        "Country": "Guatemala",
+        "Emoji": "\ud83c\uddec\ud83c\uddf9"
+    },
+    {
+        "Country": "Honduras",
+        "Emoji": "\ud83c\udded\ud83c\uddf3"
+    },
+    {
+        "Country": "Nicaragua",
+        "Emoji": "\ud83c\uddf3\ud83c\uddee"
+    },
+    {
+        "Country": "Panama",
+        "Emoji": "\ud83c\uddf5\ud83c\udde6"
+    },
+    {
+        "Country": "Peru",
+        "Emoji": "\ud83c\uddf5\ud83c\uddea"
+    },
+    {
+        "Country": "Puerto Rico",
+        "Emoji": ""
+    },
+    {
+        "Country": "Paraguay",
+        "Emoji": "\ud83c\uddf5\ud83c\uddfe"
+    },
+    {
+        "Country": "El Salvador",
+        "Emoji": "\ud83c\uddf8\ud83c\uddfb"
+    },
+    {
+        "Country": "Uruguay",
+        "Emoji": "\ud83c\uddfa\ud83c\uddfe"
+    },
+    {
+        "Country": "Venezuela (Bolivarian Republic of)",
+        "Emoji": "\ud83c\uddfb\ud83c\uddea"
+    },
+    {
+        "Country": "Estonia",
+        "Emoji": "\ud83c\uddea\ud83c\uddea"
+    },
+    {
+        "Country": "Iran (Islamic Republic of)",
+        "Emoji": "\ud83c\uddee\ud83c\uddf7"
+    },
+    {
+        "Country": "Finland",
+        "Emoji": "\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "Country": "Belgium",
+        "Emoji": "\ud83c\udde7\ud83c\uddea"
+    },
+    {
+        "Country": "Croatia",
+        "Emoji": "\ud83c\udded\ud83c\uddf7"
+    },
+    {
+        "Country": "Hungary",
+        "Emoji": "\ud83c\udded\ud83c\uddfa"
+    },
+    {
+        "Country": "Iceland",
+        "Emoji": "\ud83c\uddee\ud83c\uddf8"
+    },
+    {
+        "Country": "Georgia",
+        "Emoji": "\ud83c\uddec\ud83c\uddea"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Emoji": "\ud83c\uddf0\ud83c\uddff"
+    },
+    {
+        "Country": "Cambodia",
+        "Emoji": "\ud83c\uddf0\ud83c\udded"
+    },
+    {
+        "Country": "Lao People's Democratic Republic",
+        "Emoji": "\ud83c\uddf1\ud83c\udde6"
+    },
+    {
+        "Country": "Lithuania",
+        "Emoji": "\ud83c\uddf1\ud83c\uddf9"
+    },
+    {
+        "Country": "Latvia",
+        "Emoji": "\ud83c\uddf1\ud83c\uddfb"
+    },
+    {
+        "Country": "North Macedonia",
+        "Emoji": "\ud83c\uddf2\ud83c\uddf0"
+    },
+    {
+        "Country": "Mongolia",
+        "Emoji": "\ud83c\uddf2\ud83c\uddf3"
+    },
+    {
+        "Country": "Malta",
+        "Emoji": "\ud83c\uddf2\ud83c\uddf9"
+    },
+    {
+        "Country": "Myanmar",
+        "Emoji": "\ud83c\uddf2\ud83c\uddf2"
+    },
+    {
+        "Country": "Nepal",
+        "Emoji": "\ud83c\uddf3\ud83c\uddf5"
+    },
+    {
+        "Country": "Poland",
+        "Emoji": "\ud83c\uddf5\ud83c\uddf1"
+    },
+    {
+        "Country": "Afghanistan",
+        "Emoji": "\ud83c\udde6\ud83c\uddeb"
+    }
 ]
