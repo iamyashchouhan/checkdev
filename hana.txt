@@ -1,1 +1,1 @@
-YMG-Developers
+{"secondsLeft":1000,"cost":0.009}
