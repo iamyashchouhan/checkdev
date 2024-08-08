@@ -1,4 +1,4 @@
 {
-"dev": "YMG-Developers",
+"dev": "YMG-Developer",
 "status": "on"
 }
