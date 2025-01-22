@@ -46,16 +46,6 @@ The Quotes app provides daily motivational and inspirational quotes to boost you
 
 ---
 
-## **6. WhatsApp Status**
-The WhatsApp Status app helps you create eye-catching and creative status videos for your WhatsApp profile.
-
-### Preview:
-![WhatsApp Status 1](https://i.ibb.co/gJzrd5g/whatsapp-status-video-1.png)
-![WhatsApp Status 2](https://i.ibb.co/6RC2QXP/whatsapp-status-video-2.png)
-![WhatsApp Status 3](https://i.ibb.co/PWKxzTq/whatsapp-status-video-3.png)
-
----
-
 ## **7. Twix - Twitter Downloader**
 Twix allows you to easily download Twitter videos and media to your device.
 
