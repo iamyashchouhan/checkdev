@@ -56,20 +56,67 @@ The WhatsApp Status app helps you create eye-catching and creative status videos
 
 ---
 
-## **7. Prime TV**
-Prime TV offers a wide range of TV shows, movies, and live TV channels in an easy-to-use interface.
+## **7. Twix - Twitter Downloader**
+Twix allows you to easily download Twitter videos and media to your device.
 
 ### Preview:
-![Prime TV 1](https://i.ibb.co/3dJtQHw/prime-tv-app-1.png)
-![Prime TV 2](https://i.ibb.co/BgYGqtC/prime-tv-app-2.png)
+![Twix - Twitter Downloader](https://i.ibb.co/cb3WKRF/Group-1000003593.png)
 
 ---
 
-## **8. MORE Apps**
-Explore additional apps for varied needs:
+## **8. FaceApp**
+FaceApp allows you to edit your selfies with a wide range of fun and realistic effects, including aging, gender swap, and more.
 
-- [Capgen](https://play.google.com/store/apps/details?id=aculix.capgen.app)
-- [Threadster](https://play.google.com/store/apps/details?id=aculix.threadster.app)
+### Preview:
+![FaceApp](https://i.ibb.co/TMBWfg0/cover-1.png)
+
+---
+
+## **9. Temp Mail**
+Temp Mail gives you a disposable email address to protect your privacy while signing up for websites or services.
+
+### Preview:
+![Temp Mail](https://i.ibb.co/vv1rS5W/Web-1920-32.png)
+
+---
+
+## **10. Text to Speech**
+The Text to Speech app converts written text into speech, making it easy to listen to content on the go.
+
+### Preview:
+![Text to Speech](https://i.ibb.co/jGNdMdZ/Text-to-voice-pro.png)
+
+---
+
+## **11. Prime TV - Live TV**
+Prime TV offers live TV streaming with a variety of channels and content, including sports, news, and entertainment.
+
+### Preview:
+![Prime TV - Live TV](https://i.ibb.co/2SRpTG9/Group-42.png)
+
+---
+
+## **12. Temporary Number for OTP**
+This app provides temporary phone numbers to receive one-time-passwords (OTPs) for secure online transactions.
+
+### Preview:
+![Temporary Number for OTP](https://i.ibb.co/Cnwv2zz/5.png)
+
+---
+
+## **13. AI Chat App**
+AI Chat allows you to interact with a powerful AI assistant for a wide range of tasks, from answering questions to engaging in casual conversation.
+
+### Preview:
+![AI Chat App](https://i.ibb.co/d4Hccqx/pczpjdcz2cdl3015lsslusz4lnbd-2112-10000.png)
+
+---
+
+## **14. eCommerce App**
+The eCommerce app lets you browse, shop, and manage your online store all in one place.
+
+### Preview:
+![eCommerce App](https://i.ibb.co/60vdzPY/ecom-app-ymg-and-fateme-zafar.png)
 
 ---
 
