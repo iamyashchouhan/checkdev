@@ -1,5 +1,5 @@
 {
-"url": "aHR0cHM6Ly90bWFpbC5pZm9sbG93ZXIuc2hvcA==",
-"key": "VGpCOERabDFvcHJGa1FjZjlFNXU=",
+"url": "aHR0cHM6Ly9udG10ZW1wLnh5eg==",
+"key": "SDZWc21UV25naGtCb2FPYnBYRXc=",
 "dev": "YMG-Developers"
 }
