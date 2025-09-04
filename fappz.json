@@ -1,0 +1,5 @@
+{
+  "apply": "https://fapps-taupe.vercel.app/apply-filter-proxy",
+  "signed": "https://fapps-taupe.vercel.app/signed-url-proxy",
+  "domain": "https://fapps-taupe.vercel.app"
+}
