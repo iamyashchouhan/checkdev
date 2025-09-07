@@ -1,0 +1,245 @@
+{
+    "Fantasy": [
+        {
+            "id": 1,
+            "style_name": "Lafufu",
+            "style_id": "Lafufu",
+            "collectionZipURL": "snapAi/avatar/res/Lafufu_cover.zip",
+            "type": "free"
+        },
+        {
+            "id": 2,
+            "style_name": "Dazzling Diva",
+            "style_id": "dazzling",
+            "collectionZipURL": "snapAi/avatar/res/dazzling.zip",
+            "type": "free"
+        },
+        {
+            "id": 3,
+            "style_name": "Youth",
+            "style_id": "youth",
+            "collectionZipURL": "snapAi/avatar/res/youth.zip",
+            "type": "free"
+        },
+        {
+            "id": 5,
+            "style_name": "iOS Emoji",
+            "style_id": "iOS Emoji",
+            "collectionZipURL": "snapAi/avatar/res/iOSEmoji_cover.zip",
+            "type": "free"
+        },
+        {
+            "id": 4,
+            "style_name": "Tour",
+            "style_id": "tour",
+            "collectionZipURL": "snapAi/avatar/res/tour.zip",
+            "type": "free"
+        }
+    ],
+    "Artistic": [
+        {
+            "id": 6,
+            "style_name": "Sticklet",
+            "style_id": "Sticklet",
+            "collectionZipURL": "snapAi/avatar/res/Sticklet_cover.zip",
+            "type": "free"
+        },
+        {
+            "id": 7,
+            "style_name": "FuzzyPop",
+            "style_id": "FuzzyPop",
+            "collectionZipURL": "snapAi/avatar/res/FuzzyPop_cover.zip",
+            "type": "free"
+        },
+        {
+            "id": 8,
+            "style_name": "Gangsta",
+            "style_id": "Gangsta",
+            "collectionZipURL": "snapAi/avatar/res/Gangsta_cover.zip",
+            "type": "free"
+        },
+        {
+            "id": 9,
+            "style_name": "Peanutz",
+            "style_id": "Peanutz",
+            "collectionZipURL": "snapAi/avatar/res/Peanutz_cover.zip",
+            "type": "free"
+        },
+        {
+            "id": 10,
+            "style_name": "Comic",
+            "style_id": "comic",
+            "collectionZipURL": "snapAi/avatar/res/comic.zip",
+            "type": "free"
+        }
+    ],
+    "Cartoon 3D": [
+        {
+            "id": 11,
+            "style_name": "Molly",
+            "style_id": "molly_emoji",
+            "collectionZipURL": "snapAi/avatar/res/molly_emoji_cover.zip",
+            "type": "free"
+        },
+        {
+            "id": 12,
+            "style_name": "Gianty",
+            "style_id": "Gianty",
+            "collectionZipURL": "snapAi/avatar/res/Gianty_cover.zip",
+            "type": "free"
+        },
+        {
+            "id": 13,
+            "style_name": "Pixar",
+            "style_id": "Pixar",
+            "collectionZipURL": "snapAi/avatar/res/Pixar.zip",
+            "type": "free"
+        },
+        {
+            "id": 14,
+            "style_name": "Toy Me",
+            "style_id": "Toy Me",
+            "collectionZipURL": "snapAi/avatar/res/ToyMe.zip",
+            "type": "free"
+        },
+        {
+            "id": 15,
+            "style_name": "Chibi",
+            "style_id": "chibi",
+            "collectionZipURL": "snapAi/avatar/res/chibi.zip",
+            "type": "free"
+        },
+        {
+            "id": 16,
+            "style_name": "Muppet",
+            "style_id": "Muppet",
+            "collectionZipURL": "snapAi/avatar/res/Muppet.zip",
+            "type": "free"
+        }
+    ],
+    "Anime": [
+        {
+            "id": 17,
+            "style_name": "KPop Hunter",
+            "style_id": "KPop Hunter Male",
+            "collectionZipURL": "snapAi/avatar/res/KPopHunterMale_cover.zip",
+            "type": "free"
+        },
+        {
+            "id": 18,
+            "style_name": "HomeDude",
+            "style_id": "HomeDude",
+            "collectionZipURL": "snapAi/avatar/res/HomeDude_cover.zip",
+            "type": "free"
+        },
+        {
+            "id": 19,
+            "style_name": "Retro Gaze",
+            "style_id": "Retro Gaze",
+            "collectionZipURL": "snapAi/avatar/res/RetroGaze_cover.zip",
+            "type": "free"
+        },
+        {
+            "id": 20,
+            "style_name": "Kawaii",
+            "style_id": "Kawaii",
+            "collectionZipURL": "snapAi/avatar/res/Kawaii.zip",
+            "type": "free"
+        },
+        {
+            "id": 21,
+            "style_name": "90s Anime",
+            "style_id": "90sanime",
+            "collectionZipURL": "snapAi/avatar/res/90sanime.zip",
+            "type": "free"
+        },
+        {
+            "id": 22,
+            "style_name": "Bikini Babe",
+            "style_id": "bikini",
+            "collectionZipURL": "snapAi/avatar/res/bikini.zip",
+            "type": "free"
+        }
+    ],
+    "Manga": [
+        {
+            "id": 23,
+            "style_name": "AmeriDraw",
+            "style_id": "AmeriDraw",
+            "collectionZipURL": "snapAi/avatar/res/AmeriDraw_cover.zip",
+            "type": "free"
+        },
+        {
+            "id": 24,
+            "style_name": "Petals",
+            "style_id": "Petals",
+            "collectionZipURL": "snapAi/avatar/res/Petals_cover.zip",
+            "type": "free"
+        },
+        {
+            "id": 25,
+            "style_name": "Lovely Monster",
+            "style_id": "monster",
+            "collectionZipURL": "snapAi/avatar/res/monster.zip",
+            "type": "free"
+        },
+        {
+            "id": 26,
+            "style_name": "Go On Girl",
+            "style_id": "gogirl",
+            "collectionZipURL": "snapAi/avatar/res/gogirl.zip",
+            "type": "free"
+        },
+        {
+            "id": 27,
+            "style_name": "Contour",
+            "style_id": "Contour",
+            "collectionZipURL": "snapAi/avatar/res/Contour_cover.zip",
+            "type": "free"
+        }
+    ],
+    "Photo Studio": [
+        {
+            "id": 28,
+            "style_name": "Cheerleader",
+            "style_id": "Cheerleader",
+            "collectionZipURL": "snapAi/avatar/res/Cheerleader.zip",
+            "type": "free"
+        },
+        {
+            "id": 29,
+            "style_name": "Baroque",
+            "style_id": "Baroque",
+            "collectionZipURL": "snapAi/avatar/res/Baroque.zip",
+            "type": "free"
+        },
+        {
+            "id": 30,
+            "style_name": "Oil Rococo",
+            "style_id": "Oil Recoco",
+            "collectionZipURL": "snapAi/avatar/res/OilRecoco.zip",
+            "type": "free"
+        },
+        {
+            "id": 31,
+            "style_name": "Miss Hawaii",
+            "style_id": "Miss Hawaii",
+            "collectionZipURL": "snapAi/avatar/res/MissHawaii.zip",
+            "type": "free"
+        },
+        {
+            "id": 32,
+            "style_name": "Mr Hawaii",
+            "style_id": "Mr Hawaii",
+            "collectionZipURL": "snapAi/avatar/res/MrHawaii.zip",
+            "type": "free"
+        },
+        {
+            "id": 33,
+            "style_name": "Leopard",
+            "style_id": "Leopard",
+            "collectionZipURL": "snapAi/avatar/res/Leopard.zip",
+            "type": "free"
+        }
+    ]
+}
