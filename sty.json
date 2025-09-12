@@ -1,0 +1,44 @@
+[
+  {
+    "styleName": "Anime",
+    "prompt": "anime, anime style, 4k, high quality, ultra-detailed",
+    "stylePosition": 1,
+    "styleImage": "https://media.assettype.com/analyticsinsight/2025-03-28/vgy1el55/NightCafe-is-an-AI-anime-generator-and-social-sharing-site-with-a-thriving-online-community.-Users-can-generate-art-share-it-and-participate-in-daily-contests-to-vote-for-favorites.jpg"
+  },
+  {
+    "styleName": "Photography",
+    "prompt": "realistic photo, DSLR, 4k, high-resolution, cinematic lighting",
+    "stylePosition": 2,
+    "styleImage": "https://easy-peasy.ai/cdn-cgi/image/quality=70,format=auto,width=500/https://media.easy-peasy.ai/27feb2bb-aeb4-4a83-9fb6-8f3f2a15885e/fdd39fb5-9fd4-4354-8108-c8cb938623d0.png"
+  },
+  {
+    "styleName": "Portrait",
+    "prompt": "portrait, close-up, studio lighting, ultra-detailed, shallow depth of field",
+    "stylePosition": 3,
+    "styleImage": "https://cdn-b0.goenhance.ai/static/site/088b8580-efeb-4c05-89e9-a812af2c7459.webp"
+  },
+  {
+    "styleName": "Ghibli",
+    "prompt": "ghibli style, anime background, whimsical, soft colors, studio ghibli art",
+    "stylePosition": 4,
+    "styleImage": "https://r2.starryai.com/results/1042960448/3d1f5187-50e5-4d97-a208-e8106e06ecb4.webp"
+  },
+  {
+    "styleName": "Disney",
+    "prompt": "disney style, animated, cartoon, vibrant colors, magical feel",
+    "stylePosition": 5,
+    "styleImage": "https://cdn.prod.website-files.com/6600e1eab90de089c2d9c9cd/669726f76538e8e36712bb81_662c6c0703199d10c1ee4c8d_cCtsuTCZ_NQwf_raw.jpeg"
+  },
+  {
+    "styleName": "Sketch",
+    "prompt": "pencil sketch, hand-drawn, line art, black and white, rough texture",
+    "stylePosition": 6,
+    "styleImage": "https://example.com/images/sketch.jpg"
+  },
+  {
+    "styleName": "painting",
+    "prompt": "oil painting, brush strokes, canvas texture, artistic, fine art",
+    "stylePosition": 7,
+    "styleImage": "https://example.com/images/painting.jpg"
+  }
+]
