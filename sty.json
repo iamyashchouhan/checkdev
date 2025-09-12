@@ -33,12 +33,12 @@
     "styleName": "Sketch",
     "prompt": "pencil sketch, hand-drawn, line art, black and white, rough texture",
     "stylePosition": 6,
-    "styleImage": "https://example.com/images/sketch.jpg"
+    "styleImage": "https://i.pinimg.com/474x/c8/21/75/c82175761768ce026ee41a07dc863cf9.jpg"
   },
   {
-    "styleName": "painting",
+    "styleName": "Painting",
     "prompt": "oil painting, brush strokes, canvas texture, artistic, fine art",
     "stylePosition": 7,
-    "styleImage": "https://example.com/images/painting.jpg"
+    "styleImage": "https://cdn.pixabay.com/photo/2024/09/09/15/14/ai-generated-9035095_960_720.jpg"
   }
 ]
