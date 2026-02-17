@@ -1,5 +1,5 @@
 {
-  "apply": "https://fapps-taupe.vercel.app/apply-filter-proxy",
-  "signed": "https://fapps-taupe.vercel.app/signed-url-proxy",
-  "domain": "https://fapps-taupe.vercel.app"
+  "apply": "http://82.29.181.202:8088/apply-filter-proxy",
+  "signed": "http://82.29.181.202:8088/signed-url-proxy",
+  "domain": "http://82.29.181.202:8088/state-fetching-proxy?correlation_id="
 }
